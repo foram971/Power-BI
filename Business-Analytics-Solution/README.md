@@ -1,15 +1,22 @@
-# 👋 Hi, I'm Foram Shah
-
+👋 Hi, I'm Foram Shah
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWc1eWJjeTZjMzJsbXU0dTJ5dTJrc2llMzRoMWVrbXhuZHM2NnNkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="350" /> </p>
+📊 Business Analytics Solution (Power BI Project)
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWc1eWJjeTZjMzJsbXU0dTJ5dTJrc2llMzRoMWVrbXhuZHM2NnNkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="350" />
-</p>
 
----
+
+
+
+
+
+
+
+
+
+</p>
+📌 Project Overview
 # Retail Analytics – WarmHands (Power BI)
 
-## Overview
-
-This project analyzes retail data to evaluate sales performance, profitability, inventory impact, and customer behaviour.
+This project analyzes retail data to evaluate sales performance, profitability, inventory impact, and customer behavior.
 
 The solution is built using a multi-table data model and focuses on delivering insights that support operational and strategic decisions.
 
@@ -19,7 +26,7 @@ The solution is built using a multi-table data model and focuses on delivering i
 
 * Analyze sales and profit performance
 * Identify high-performing products
-* Understand customer purchasing behaviour
+* Understand customer purchasing behavior
 * Evaluate the impact of inventory on sales
 * Support business decisions with data insights
 
@@ -88,7 +95,7 @@ The dashboard includes:
 * A small number of products drive the majority of revenue
 * Some high-volume products have low profitability
 * Inventory availability directly impacts sales
-* Customer behaviour varies across regions
+* Customer behavior varies across regions
 
 ---
 
