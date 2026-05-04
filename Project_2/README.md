@@ -14,119 +14,118 @@
 
 </p>
 📌 Project Overview
+# Retail Analytics – WarmHands (Power BI)
 
-This project delivers an end-to-end business analytics solution in Power BI, transforming raw data into structured, decision-ready insights using the Medallion Architecture (Bronze, Silver, Gold).
+This project analyzes retail data to evaluate sales performance, profitability, inventory impact, and customer behavior.
 
-The focus is on building a scalable data model, developing key business metrics, and creating an executive dashboard to support strategic decision-making.
+The solution is built using a multi-table data model and focuses on delivering insights that support operational and strategic decisions.
 
-🎯 Project Objective
+---
 
-• Convert raw data into actionable business insights
-• Ensure data accuracy, consistency, and transparency
-• Enable real-time KPI monitoring
-• Support forecasting and trend analysis
-• Deliver executive-level reporting dashboards
+## Objective
 
-🏗 Architecture – Medallion Approach
+* Analyze sales and profit performance
+* Identify high-performing products
+* Understand customer purchasing behavior
+* Evaluate the impact of inventory on sales
+* Support business decisions with data insights
 
-• 🥉 Bronze Layer – Raw data ingestion
-• 🥈 Silver Layer – Cleaned and transformed data
-• 🥇 Gold Layer – Business-ready analytical model
+---
 
-✔ Improves data quality
-✔ Supports scalability
-✔ Enhances performance and reusability
+## Dataset
 
-🛠 Tools & Technologies
+The dataset includes multiple related tables:
 
-• Power BI Desktop
-• Power Query (ETL)
-• DAX (KPIs & Time Intelligence)
-• Excel / Source Systems
-• Data Modeling (Star Schema)
+* Orders (transaction data)
+* Customers
+* Stock
+* Price
+* Cost
+* Country
 
-🔄 Data Preparation & Modeling
+---
 
-• Imported and consolidated raw datasets
-• Cleaned and standardized data using Power Query
-• Handled missing and inconsistent values
-• Built dimension tables (Customers, Branches, Applications, Departments)
-• Created fact tables for transactional data
-• Designed a Star Schema data model
-• Established relationships across tables
-• Developed reusable DAX measures
+## Data Preparation
 
-📊 Key Metrics
+* Imported multiple datasets into Power BI
+* Cleaned and transformed data using Power Query
+* Standardized formats and resolved inconsistencies
+* Built relationships between tables
+* Designed a star schema data model
 
-• Revenue
-• Cost
-• Profit
-• Profit Margin
+---
 
-⏳ Time Intelligence
+## Analysis
 
-• Year-to-Date (YTD)
-• Quarter-to-Date (QTD)
-• Last Year (LY) comparison
+* Sales performance over time
+* Profitability analysis (price vs cost)
+* Customer-level insights
+* Inventory impact on sales
+* Geographic performance analysis
 
-📈 Forecasting & Trend Analysis
+---
 
-• Identified seasonality patterns in historical data
-• Applied forecasting techniques in Power BI
-• Predicted future revenue trends
-• Enabled proactive decision-making
+## ABC Analysis
 
-📊 Dashboard Features
+Products were categorized based on revenue contribution:
 
-• KPI Cards (Revenue, Cost, Profit, Margin)
-• Profit & Loss (P&L) Statement
-• Time-based trend analysis
-• Forecasting visuals
-• Interactive slicers and filters
-• Department & branch-level insights
+* Category A: High-value products
+* Category B: Moderate contributors
+* Category C: Low-impact products
 
-🔍 Key Insights
+This helped prioritize key products and identify optimization opportunities.
 
-• Revenue trends show strong seasonal patterns
-• Profitability varies across departments and branches
-• Forecasting highlights upcoming growth and risk periods
-• Structured modeling significantly improves reporting efficiency
-• Interactive dashboards enable faster business decisions
+---
 
-📷 Dashboard Preview
+## Dashboard
 
-👉 (Add screenshots here – use 2–3 clean visuals for best impact)
+The dashboard includes:
 
-🚀 How to Use
+* KPI summary (Sales, Profit, Cost, Orders)
+* Sales trend analysis
+* Product-level profitability
+* Customer insights
+* Inventory vs sales comparison
+* Geographic performance view
 
-• Download the .pbix file
-• Open in Power BI Desktop
-• Explore dashboards using filters and slicers
+---
 
-💡 What I Learned
+## Key Insights
 
-• Implementing Medallion Architecture in Power BI
-• Designing scalable data models
-• Writing advanced DAX measures
-• Applying forecasting techniques
-• Building executive-level dashboards
+* A small number of products drive the majority of revenue
+* Some high-volume products have low profitability
+* Inventory availability directly impacts sales
+* Customer behavior varies across regions
 
-✨ Final Note
+---
 
-“Data becomes valuable when it drives decisions. This project focuses on turning structured data into clear, actionable business insights.”
+## Business Value
 
-🔥 Optional (HIGHLY RECOMMENDED for recruiters)
+This analysis supports:
 
-Add this at the bottom:
+* Product prioritization
+* Inventory planning
+* Customer targeting strategies
+* Profitability optimization
 
-📎 Project Files
+---
 
-• 📁 Power BI File (.pbix)
-• 📄 Project Documentation (PDF)
-• 📊 Dataset (Excel/CSV)
+## Tools
 
-🔗 Connect With Me
+* Power BI
+* Power Query
+* DAX
 
-• 💼 LinkedIn: https://www.linkedin.com/in/foramshahnimeshbhai
+---
 
-• 💻 GitHub: https://github.com/foram971
+## Files
+
+* Power BI file (.pbix)
+* Dataset
+* Project documentation
+
+---
+
+## Conclusion
+
+This project demonstrates how retail data can be used to improve business performance through structured analysis and visualization.
