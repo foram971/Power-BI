@@ -1,10 +1,6 @@
-# 👋 Hi, I'm Foram Shah
+# Hi, I'm Foram Shah
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWc1eWJjeTZjMzJsbXU0dTJ5dTJrc2llMzRoMWVrbXhuZHM2NnNkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="350" />
-</p>
 
----
 # Retail Analytics – WarmHands (Power BI)
 
 ## Overview
