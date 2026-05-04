@@ -1,20 +1,22 @@
-# 📊 Power BI Analytics Portfolio
+# Power BI Analytics Portfolio
 
-This repository contains Power BI projects focused on business reporting, KPI development, data modeling, DAX, Power Query, and dashboard storytelling.
+This repository contains Power BI projects focused on data modelling, KPI reporting, and business analytics.
 
 ## Projects
 
-| Project | Focus | Tools |
-|---|---|---|
-| WarmHands Retail Analytics | Sales, Profit, Inventory, ABC Analysis | Power BI, DAX, Power Query |
-| Business Analytics Solution | Revenue, Cost, Profit, P&L, Forecasting | Power BI, DAX, Medallion Architecture |
+| Project                                                      | Focus Area                          | Key Capabilities                      |
+| ------------------------------------------------------------ | ----------------------------------- | ------------------------------------- |
+| [Business Analytics Solution](./Business-Analytics-Solution) | Financial reporting and forecasting | Data modeling, DAX, time intelligence |
+| [Retail Analytics – WarmHands](./WarmHands-Retail-Analytics) | Sales and inventory analysis        | KPI reporting, ABC analysis           |
 
 ## Skills Demonstrated
 
-- Data Cleaning
-- Power Query
-- DAX Measures
-- Star Schema Modeling
-- KPI Reporting
-- Forecasting
-- Executive Dashboard Design
+* Data modelling (star schema, medallion architecture)
+* Data transformation using Power Query
+* DAX measures for KPI development
+* Time intelligence (YTD, QTD, LY)
+* Dashboard design for business reporting
+
+## How to Use
+
+Open project folders and download `.pbix` files to explore dashboards in Power BI Desktop.
