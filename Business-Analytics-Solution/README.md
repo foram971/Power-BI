@@ -1,20 +1,10 @@
-Hi, I'm Foram Shah
-
-Business Analytics Solution (Power BI Project)
-<p align="center">
+# Hi, I'm Foram Shah
 
 
 
+# Business Analytics Solution (Power BI Project)
 
-
-
-
-
-
-
-</p>
-Project Overview
-# Retail Analytics – WarmHands (Power BI)
+## Project Overview
 
 This project analyzes retail data to evaluate sales performance, profitability, inventory impact, and customer behavior.
 
